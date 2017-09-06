@@ -1,12 +1,12 @@
 {
-  "name": "stephntpaul",
-  "description": "portfolio site",
+  "name": "project",
+  "description": "description",
   "version": "0.0.1",
   "author": "phrozenice",
   "ava": {
     "verbose": "true"
   },
-  "bugs": "https://github.com/phrozenice/stephntpaul/issues",
+  "bugs": "",
   "dependencies": {
     "reshape-standard": "^3.0.0",
     "spike": "^2.0.0",
@@ -28,10 +28,10 @@
     "vue-loader": "^13.0.4",
     "vue-template-compiler": "^2.4.2"
   },
-  "homepage": "https://github.com/phrozenice/stephntpaul",
+  "homepage": "",
   "main": "app.js",
   "private": true,
-  "repository": "https://github.com/phrozenice/stephntpaul",
+  "repository": "",
   "scripts": {
     "lint": "standard | snazzy",
     "precommit": "npm run lint -s",
