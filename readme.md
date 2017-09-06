@@ -1,6 +1,8 @@
-# stephntpaul
+# vue-spike
 
-portfolio site
+Basic Spike Template that incorporates the vue-loader into the the
+spike workflow. Allows you to write VueJs code using `.vue` files.
+
 
 ## Setup
 
