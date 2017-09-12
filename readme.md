@@ -1,7 +1,7 @@
-Error Reproduction
+##Error Reproduction
 
 1. First Compile works fine with the `spike watch` command
-2. Make a change to the `<template>` block in the `app.vue` file
+2. Make a change to the `<template>` block in the `vue/components/app.vue` file
 3. Spike will pick up the change then emit the following error
 
 ```
