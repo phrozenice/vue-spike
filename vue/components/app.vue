@@ -4,11 +4,12 @@
 
 <script>
 export default {
-    name: 'app-root',
+    name: 'App',
     data() {
-        return {
-            message: 'Boom Chick!'
+        return { 
+            message: 'Olay Reloaded!' 
         }
     }
 }
+
 </script>

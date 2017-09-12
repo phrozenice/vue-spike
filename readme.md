@@ -1,7 +1,5 @@
-# vue-spike
+# 
 
-Basic Spike Template that incorporates the vue-loader into the the
-spike workflow. Allows you to write VueJs code using `.vue` files.
 
 
 ## Setup

@@ -1,12 +1,12 @@
 {
-  "name": "project",
-  "description": "description",
+  "name": "",
+  "description": "",
   "version": "0.0.1",
-  "author": "phrozenice",
+  "author": "",
   "ava": {
     "verbose": "true"
   },
-  "bugs": "",
+  "bugs": "https://github.com///issues",
   "dependencies": {
     "reshape-standard": "^3.0.0",
     "spike": "^2.0.0",
@@ -14,24 +14,24 @@
     "spike-js-standards": "^2.0.2",
     "spike-optimize": "^0.1.2",
     "spike-page-id": "^1.0.0",
-    "sugarml": "^0.6.0",
-    "sugarss": "^1.0.0",
     "vue": "^2.4.2"
   },
   "devDependencies": {
-    "ajv": "^5.2.2",
     "ava": "^0.19.1",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
     "css-loader": "^0.28.7",
     "rimraf": "^2.6.1",
     "snazzy": "^7.0.0",
     "standard": "^10.0.2",
+    "transform-runtime": "0.0.0",
     "vue-loader": "^13.0.4",
     "vue-template-compiler": "^2.4.2"
   },
-  "homepage": "",
+  "homepage": "https://github.com//",
   "main": "app.js",
   "private": true,
-  "repository": "",
+  "repository": "https://github.com//",
   "scripts": {
     "lint": "standard | snazzy",
     "precommit": "npm run lint -s",

@@ -1,9 +1,3 @@
-import Vue from 'vue'
-import App from './components/app.vue'
+console.log('you can use ES6 here : )')
 
-new Vue({
-    el: '#app',
-    render: h => h(App),
-    template: '<App/>',
-    components: { App }
-})
+import App from '../../vue/index.js'
